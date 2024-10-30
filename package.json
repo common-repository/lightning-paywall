@@ -1,0 +1,17 @@
+{
+  "name": "lightning-paywall",
+  "version": "1.0.0",
+  "description": "Lightning Paywall is a WordPress plugin for publishers to charge for paid content. With the help of WordPress Lightning Paywall plugin you can offer previews of your blog posts and accept bitcoin payment for a single post (pay-per-post) via Lightning Network.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "13.0.3"
+  }
+}
